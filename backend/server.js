@@ -11,6 +11,7 @@ const notes = [
   { id: 2, text: "Las Patricia" },
   { id: 3, text: "Las Nicole" },
   { id: 4, text: "Las Sofia" },
+  { id: 5, text: "Mi primera novia en kinder Maria" },
 ];
 
 app.use(express.static("public"));
