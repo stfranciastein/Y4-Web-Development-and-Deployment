@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div>
-      <h1>My notes</h1>
+      <h1>Titi me pregunto si tengo mucha novia</h1>
       <ul>
         {notes.map((note) => (
           <li key={note.id}>{note.text}</li>
